@@ -1,1 +1,0 @@
-timestamp,session_id,question_id,question_text,response_text,model_label,run_condition,new_session_flag,score_agree,score_selfcensor,score_depth,score_numbers,score_independence,total_score,short_note
